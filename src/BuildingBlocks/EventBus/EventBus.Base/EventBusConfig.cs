@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -17,6 +18,18 @@ namespace EventBus.Base
 
         public bool DeleteEventPrefix => !String.IsNullOrEmpty(EventNamePrefix);
         public bool DeleteEventSuffix => !String.IsNullOrEmpty(EventNameSuffix);
+
+
+        /// <summary>
+        /// Reading parameters from appsettings json
+        /// </summary>
+        /// <param name="configuration"></param>
+        /// <returns>EventBusConfig</returns>
+        public EventBusConfig ReadFrom(IConfiguration configuration)
+        {
+           EventBusConfig eventBus = configuration.GetSection("EventBusConfig").Get<EventBusConfig>();
+            return eventBus;
+        }
 
 
     }

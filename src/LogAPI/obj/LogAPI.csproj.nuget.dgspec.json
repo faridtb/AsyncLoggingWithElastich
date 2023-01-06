@@ -353,6 +353,14 @@
               "target": "Package",
               "version": "[8.4.0, )"
             },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "Serilog.Sinks.Debug": {
               "target": "Package",
               "version": "[2.0.0, )"
@@ -360,6 +368,10 @@
             "Serilog.Sinks.Elasticsearch": {
               "target": "Package",
               "version": "[8.4.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

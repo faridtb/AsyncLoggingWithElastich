@@ -37,7 +37,7 @@ namespace TestApi.Controllers
             string data2 = "XEBERDARLIQ";
             string json = JsonSerializer.Serialize(new { Data = data1, Test = data2 }, (JsonSerializerOptions)null);
 
-            _logger.LogWarning(json);
+            _logger.LogWarning("dadas");
             return Ok(json);
         }
 

@@ -1,0 +1,301 @@
+2023-01-06 15:29:41.615 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:29:41.678 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:29:41.682 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:29:41.684 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:29:41.684 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:29:42.929 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:29:43.415 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:29:43.431 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 11.7554ms
+2023-01-06 15:29:43.433 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 509.1259ms
+2023-01-06 15:29:43.543 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:29:43.594 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.3455ms
+2023-01-06 15:29:43.708 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:29:43.764 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 55.2049ms
+2023-01-06 15:31:55.019 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:31:55.078 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:31:55.083 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:31:55.084 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:31:55.085 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:31:56.168 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:31:56.557 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:31:56.569 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 9.3505ms
+2023-01-06 15:31:56.570 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 406.8930ms
+2023-01-06 15:31:56.651 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:31:56.684 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 32.8941ms
+2023-01-06 15:31:56.788 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:31:56.836 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 48.2719ms
+2023-01-06 15:34:12.327 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:34:12.406 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:34:12.411 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:34:12.412 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:34:12.413 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:34:12.722 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:12.734 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:12.754 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:12.778 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:12.786 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:13.879 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:34:14.377 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:34:14.413 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 32.0940ms
+2023-01-06 15:34:14.413 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 535.2523ms
+2023-01-06 15:34:14.453 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:14.541 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:34:14.708 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 166.8715ms
+2023-01-06 15:34:14.829 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:34:14.893 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 63.8643ms
+2023-01-06 15:34:16.463 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:16.465 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:16.466 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:16.468 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:16.471 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:16.476 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:16.480 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:22.488 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:22.494 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:22.497 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:22.502 +04:00 [WRN] WARNINGLEDIM!
+2023-01-06 15:34:22.505 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:22.509 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:22.514 +04:00 [INF] INFOLADIM
+2023-01-06 15:34:22.517 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:10.858 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:39:11.196 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:11.965 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:39:35.596 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:39:35.597 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:39:35.598 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:39:35.599 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.599 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:39:35.600 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.602 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.604 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.611 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.614 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.616 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.617 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.618 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.619 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.620 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:35.621 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:45.773 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:39:52.889 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:55.102 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:55.104 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:55.107 +04:00 [FTL] FAATALITY!
+2023-01-06 15:39:55.109 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:55.111 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:55.113 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:55.121 +04:00 [INF] INFOLADIM
+2023-01-06 15:39:55.295 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 9521.1085ms
+2023-01-06 15:39:55.378 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:39:55.384 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 6.3811ms
+2023-01-06 15:39:55.397 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:39:55.423 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.5387ms
+2023-01-06 15:39:55.538 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:39:55.573 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 34.9511ms
+2023-01-06 15:40:21.060 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:21.812 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:21.814 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:21.815 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:21.816 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:21.819 +04:00 [ERR] ERRORLADIM!
+2023-01-06 15:40:21.822 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.098 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.100 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.102 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.104 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.106 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.109 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.110 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:29.112 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.120 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.124 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.128 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.132 +04:00 [FTL] FAATALITY!
+2023-01-06 15:40:39.137 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.142 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.146 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.149 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.156 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.160 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.164 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.169 +04:00 [FTL] FAATALITY!
+2023-01-06 15:40:39.174 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.178 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.184 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.188 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.194 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.198 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.205 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.209 +04:00 [FTL] FAATALITY!
+2023-01-06 15:40:39.215 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.219 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.224 +04:00 [INF] INFOLADIM
+2023-01-06 15:40:39.228 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:29.694 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:47:29.888 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:47:29.898 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:47:29.901 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:47:29.903 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:47:30.223 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:30.232 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:30.233 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:30.235 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:30.238 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:30.976 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:47:31.362 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:47:31.379 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 13.7588ms
+2023-01-06 15:47:31.381 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 411.0191ms
+2023-01-06 15:47:31.405 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:31.502 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:47:31.938 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 435.2898ms
+2023-01-06 15:47:32.062 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:47:32.102 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 39.9267ms
+2023-01-06 15:47:33.406 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:33.408 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:33.409 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:33.411 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:33.413 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:33.415 +04:00 [INF] INFOLADIM
+2023-01-06 15:47:33.417 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:01.885 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:53:02.073 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:53:02.116 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:53:02.119 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:53:02.120 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:53:02.450 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:02.455 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:02.457 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:02.459 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:02.462 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:03.106 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:53:03.608 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 506.9510ms
+2023-01-06 15:53:03.715 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:53:03.729 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 13.6978ms
+2023-01-06 15:53:03.742 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:53:03.781 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.7713ms
+2023-01-06 15:53:03.890 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:53:03.944 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 54.2004ms
+2023-01-06 15:53:03.969 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:03.974 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:03.980 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:03.988 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:03.992 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:03.994 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:03.995 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:05.991 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:44.306 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:53:44.458 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:53:44.481 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:53:44.521 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:44.525 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:53:44.529 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:44.530 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:53:44.533 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:44.542 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:44.550 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:45.162 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:53:45.591 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:53:45.601 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 8.2112ms
+2023-01-06 15:53:45.606 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 448.6490ms
+2023-01-06 15:53:45.684 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:53:45.726 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.4293ms
+2023-01-06 15:53:45.836 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:53:45.903 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66.7115ms
+2023-01-06 15:53:46.030 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:46.038 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:46.045 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:46.051 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:46.053 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:46.057 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:46.059 +04:00 [INF] INFOLADIM
+2023-01-06 15:53:46.061 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:27.871 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:55:28.115 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:55:28.134 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:55:28.138 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:55:28.144 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:55:28.491 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:28.498 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:28.504 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:28.507 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:28.509 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:29.009 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:55:29.533 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 525.3219ms
+2023-01-06 15:55:29.717 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:55:29.729 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 11.4120ms
+2023-01-06 15:55:29.740 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:55:29.806 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.5835ms
+2023-01-06 15:55:30.015 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:55:30.036 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:30.052 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:30.093 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:30.102 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:30.108 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:30.109 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 93.6226ms
+2023-01-06 15:55:30.121 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:30.150 +04:00 [INF] INFOLADIM
+2023-01-06 15:55:32.107 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:14.300 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 15:58:14.414 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 15:58:14.425 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 15:58:14.459 +04:00 [INF] Hosting environment: Development
+2023-01-06 15:58:14.471 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 15:58:14.831 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:14.874 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:14.880 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:14.882 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:14.885 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:15.365 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 15:58:15.892 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 529.3347ms
+2023-01-06 15:58:16.139 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 15:58:16.157 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 18.2711ms
+2023-01-06 15:58:16.178 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 15:58:16.303 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 124.9493ms
+2023-01-06 15:58:16.363 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:16.372 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:16.392 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:16.400 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:16.402 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:16.405 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:16.575 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 15:58:16.637 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 61.5350ms
+2023-01-06 15:58:18.385 +04:00 [INF] INFOLADIM
+2023-01-06 15:58:18.387 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.474 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.479 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.482 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.487 +04:00 [FTL] FAATALITY!
+2023-01-06 15:59:30.491 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.494 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.496 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.500 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.503 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.506 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.509 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.513 +04:00 [FTL] FAATALITY!
+2023-01-06 15:59:30.516 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.520 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.524 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:30.526 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:32.530 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:32.532 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:32.534 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:32.537 +04:00 [FTL] FAATALITY!
+2023-01-06 15:59:32.539 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:32.542 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:32.544 +04:00 [INF] INFOLADIM
+2023-01-06 15:59:32.546 +04:00 [INF] INFOLADIM
+2023-01-06 18:58:27.625 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-06 18:58:27.826 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-06 18:58:27.837 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-06 18:58:27.840 +04:00 [INF] Hosting environment: Development
+2023-01-06 18:58:27.842 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-06 18:58:29.775 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-06 18:58:30.823 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-06 18:58:30.829 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 1094.3885ms
+2023-01-06 18:58:30.849 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 26.3725ms
+2023-01-06 18:58:30.998 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-06 18:58:31.091 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 93.1817ms
+2023-01-06 18:58:31.271 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-06 18:58:31.338 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66.1697ms
