@@ -20,7 +20,7 @@ namespace TestApi.Controllers
 
 
         [HttpPost("info")]       
-        public async Task<IActionResult> Information()
+        public async Task<IActionResult> Information([FromBody]string content)
         {
             string data1 = "INFORMATIONIATE";
             string data2 = "MELUMAT";

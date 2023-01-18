@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Yk1QwF4ph/eDbPgtI6PRurh1/rV2Vfak2TZ+S9rtFHy2iZStm8q7QQV2pkmOTLyd38XsIgv6Pc/loItQVnn9uw==",
+  "dgSpecHash": "G67NJ+fClIkcY8IwB0v74ttJDJP0Pg+3UUVbmo8xTYx3Ddfab6kTIzwD4zfZDwdcv2GxE9lMcMVIH8C+LXTzOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\Rabbitgil\\RabbitMQToSerilog\\RabbitMQToSerilog\\src\\Services\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [

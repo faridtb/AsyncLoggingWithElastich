@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cOxzyeArR9fvid6hY1ztJ6Ayh/jk0wVDgeAWqmFHePaZbVFyAiJdIJ4t+lPNVXjmP/3nfITNH0iJxZ4TImgvqQ==",
+  "dgSpecHash": "j8pyn5zgCgMO0KTcTuTdI9Yrv12jmqkHlwU7Us8YmxKyxw2THA8jDtBtSFOwDkh5bhJbCsxsYMsQ1R2y2QDxVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\Rabbitgil\\RabbitMQToSerilog\\RabbitMQToSerilog\\src\\LogAPI\\LogAPI.csproj",
   "expectedPackageFiles": [

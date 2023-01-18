@@ -1,0 +1,13 @@
+2023-01-17 21:55:00.402 +04:00 [INF] Now listening on: https://localhost:7294
+2023-01-17 21:55:00.476 +04:00 [INF] Now listening on: http://localhost:5081
+2023-01-17 21:55:00.483 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-17 21:55:00.484 +04:00 [INF] Hosting environment: Development
+2023-01-17 21:55:00.486 +04:00 [INF] Content root path: C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\LogAPI\
+2023-01-17 21:55:05.883 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - -
+2023-01-17 21:55:06.791 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - - - 200 - text/html;charset=utf-8 935.3011ms
+2023-01-17 21:55:07.058 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - -
+2023-01-17 21:55:07.073 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - - - 200 11982 application/javascript;+charset=utf-8 14.2400ms
+2023-01-17 21:55:07.114 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - -
+2023-01-17 21:55:07.472 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 357.6922ms
+2023-01-17 21:55:08.228 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - -
+2023-01-17 21:55:08.288 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 60.2959ms
