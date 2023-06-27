@@ -9,10 +9,6 @@ namespace Tesla
 {
     public class FaridAppender : AppenderSkeleton
     {
-        public FaridAppender()
-        {
-            Console.WriteLine("zad");
-        }
         protected override void Append(LoggingEvent loggingEvent)
         {
             // Do something with the logged data, like calling your web url

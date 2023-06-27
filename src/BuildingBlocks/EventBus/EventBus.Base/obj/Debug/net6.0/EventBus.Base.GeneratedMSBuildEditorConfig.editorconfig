@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EventBus.Base
-build_property.ProjectDir = C:\Users\User\Desktop\Rabbitgil\RabbitMQToSerilog\RabbitMQToSerilog\src\BuildingBlocks\EventBus\EventBus.Base\
+build_property.ProjectDir = C:\Users\User\Desktop\P322\Special Works\RabbitMQToSerilog\src\BuildingBlocks\EventBus\EventBus.Base\

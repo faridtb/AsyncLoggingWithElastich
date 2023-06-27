@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ae2yKdsaLXLm5TzCLoqSOSiscGKLYtv5dm3h6iRVM2ZcplG58SXVhD/HZOUG7qWRCLFUjQPP6rMUC5G5ql4yqA==",
+  "dgSpecHash": "Cj1cewBLYGM0fXSy5mJ2jxGP5nux0J2DRIXLXL5+qyyQjFvTgfnz7/66qCKJP5nitYcaGa1UJGxhrPEyGYEq4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Rabbitgil\\RabbitMQToSerilog\\RabbitMQToSerilog\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\P322\\Special Works\\RabbitMQToSerilog\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\aspose.pdf\\22.11.0\\aspose.pdf.22.11.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
